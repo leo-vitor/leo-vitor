@@ -1,6 +1,6 @@
 # 👋 Hi, my name is Leo Vitor
 
-## I'm a computer engineering student at the Universidade Federeal do Ceará.
+### I'm a computer engineering student at the Universidade Federeal do Ceará.
 - 👀 I’m interested in Embedded Systems, Frontend and Backend Development.
 - 🌱 I’m currently learning Ionic + Firebase and C#
 
