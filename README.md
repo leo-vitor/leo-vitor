@@ -1,13 +1,31 @@
-# 👋 Hi, my name is Leo Vitor
+# 👋 Hi, I'm Leo Vitor
 
-### I'm a computer engineering student at the Universidade Federal do Ceará and a Scientific Initiation (IC) scholarship holder.
+### I'm a Computer Engineer from the Federal University of Ceará (UFC), with experience in Data Science, AI, and Machine Learning applied to health and embedded systems.
 
-- 👨‍💻 I’m currently studying **Machine Learning**, **Convolutional Neural Networks (CNNs)**, and **ECG classification** as part of my research work.
-- 📊 I'm passionate about **Data Science**, **Artificial Intelligence**, and applying **deep learning** to solve complex problems.
+- 👨‍💻 I work with **Machine Learning**, **Deep Learning** (especially CNNs), and **ECG classification** for disease diagnosis and risk prediction.
+- 📊 I'm passionate about building solutions that leverage **Artificial Intelligence** and **Data Science** to address real-world challenges, particularly in healthcare and IoT.
 
-- :mag_right: How to reach me:
-  - :camera: Instagram - @leo_o_pardo
-  - :email: Email - leo.vitor@alu.ufc.br
-  - :office: LinkedIn - [Leo Vitor on LinkedIn](https://www.linkedin.com/in/leo-vitor-a99950186/)
+---
+
+### 🛠️ My Core Skills
+- Programming: `Python`, `C/C++`, `Shell Script`, `SQL`
+- ML/DL Tools: `PyTorch`, `TensorFlow`, `scikit-learn`, `Pandas`, `NumPy`
+- Visualization: `Matplotlib`, `Seaborn`, `Power BI`, `Tableau`
+- Embedded Systems & IoT: `Arduino`, `ESP32`, `Linux`, `Git`
+- Others: `React Native`, `Git`, `Linux`, `LaTeX`
+
+---
+
+### 📌 Certifications
+- **NVIDIA Deep Learning Institute** – Getting Started with Deep Learning
+
+---
+
+### 🔎 How to reach me
+- 📷 Instagram: [@leo_o_pardo](https://www.instagram.com/leo_o_pardo)
+- 📧 Email: leo.vitor@alu.ufc.br
+- 💼 LinkedIn: [Leo Vitor](https://www.linkedin.com/in/leo-vitor-a99950186/)
+
+---
 
 [![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leo-vitor&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
